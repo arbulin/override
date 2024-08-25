@@ -7,3 +7,4 @@ rules:
   - PROCESS-NAME,grass.exe,DIRECT
   - DOMAIN-SUFFIX,laiguaba.com,DIRECT
   - PROCESS-NAME,rustdesk.exe,DIRECT
+  - PROCESS-NAME,OneThingPcLite.exe,DIRECT
