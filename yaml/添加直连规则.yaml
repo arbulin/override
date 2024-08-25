@@ -5,3 +5,4 @@ rules:
   - "DOMAIN-SUFFIX,tencent.com,DIRECT"
   - PROCESS-NAME,titan_network.exe,DIRECT
   - PROCESS-NAME,grass.exe,DIRECT
+  - DOMAIN-SUFFIX,laiguaba.com,DIRECT
