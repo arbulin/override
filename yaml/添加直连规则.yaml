@@ -6,8 +6,12 @@ rules:
   - DOMAIN-SUFFIX,hzjy.laiguaba.com,DIRECT
   - DOMAIN-KEYWORD,titannet,DIRECT
   - DOMAIN-KEYWORD,getgrass,DIRECT
+  - PROCESS-NAME,rustdesk,DIRECT
   - PROCESS-NAME,rustdesk.exe,DIRECT
   - PROCESS-NAME,OneThingPcLite.exe,DIRECT
   - PROCESS-NAME,titan_network.exe,DIRECT
+  - PROCESS-NAME,titan_networke,DIRECT
   - PROCESS-NAME,titan-edge.exe,DIRECT
+  - PROCESS-NAME,titan-edge,DIRECT
   - PROCESS-NAME,grass.exe,DIRECT
+  - PROCESS-NAME,grass,DIRECT
